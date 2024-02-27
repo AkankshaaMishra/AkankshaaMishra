@@ -53,7 +53,7 @@ Join me on this journey of exploration and innovation as we create impactful sol
 ## 📫 Contact Me
 
 Feel free to reach out to me if you have any questions or just want to connect. You can find me on:
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohammed-danish-shaikh-dev/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akanksha-mishra-581663248/)
 - Email: akankshamishrab308@gmail.com
 - Personal Website: [My Personal Website](https://akankshaamishra.github.io/CV/)
 
