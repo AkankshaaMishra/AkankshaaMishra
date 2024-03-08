@@ -13,14 +13,9 @@ Here, you'll discover a curated collection of my endeavors, ranging from innovat
 ### Programming Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=E34F26&logoWidth=20)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=1572B6&logoWidth=20)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E&logoWidth=20)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white&color=A8B9CC&logoWidth=20)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C&logoWidth=20)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&color=007396&logoWidth=20)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&color=3776AB&logoWidth=20)
-![Computer Networking](https://img.shields.io/badge/-Computer%20Networking-00BFFF?style=flat-square&logo=network&logoColor=white&color=00BFFF&logoWidth=20)
-![DBMS](https://img.shields.io/badge/-DBMS-FFA500?style=flat-square&logo=database&logoColor=white&color=FFA500&logoWidth=20)
-![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-000000?style=flat-square&logo=linux&logoColor=white&color=000000&logoWidth=20)
 ![DSA](https://img.shields.io/badge/-DSA-FF6F00?style=flat-square&logo=algorithm&logoColor=white&color=FF6F00&logoWidth=20)
 
 ### Frameworks and Libraries
