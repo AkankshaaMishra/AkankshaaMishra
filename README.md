@@ -19,16 +19,10 @@ Here, you'll discover a curated collection of my endeavors, ranging from innovat
 ![DSA](https://img.shields.io/badge/-DSA-FF6F00?style=flat-square&logo=algorithm&logoColor=white&color=FF6F00&logoWidth=20)
 
 ### Frameworks and Libraries
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&color=47A248&logoWidth=20)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white&color=000000&logoWidth=20)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&color=61DAFB&logoWidth=20)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&color=339933&logoWidth=20)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&color=02569B&logoWidth=20)
 
 ### Tools and Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&color=F05032&logoWidth=20)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&color=007ACC&logoWidth=20)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white&color=3DDC84&logoWidth=20)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&color=FCC624&logoWidth=20)
 
 ## 💡 Interests
